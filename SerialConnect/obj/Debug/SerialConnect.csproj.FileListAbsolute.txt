@@ -1,0 +1,11 @@
+D:\source\repos\SerialConnect\SerialConnect\bin\Debug\SerialConnect.exe.config
+D:\source\repos\SerialConnect\SerialConnect\bin\Debug\SerialConnect.exe
+D:\source\repos\SerialConnect\SerialConnect\bin\Debug\SerialConnect.pdb
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.csproj.AssemblyReference.cache
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.Form1.resources
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.Properties.Resources.resources
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.csproj.GenerateResource.cache
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.csproj.CoreCompileInputs.cache
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.exe
+D:\source\repos\SerialConnect\SerialConnect\obj\Debug\SerialConnect.pdb
